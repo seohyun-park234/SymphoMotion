@@ -1,1 +1,1 @@
-# SympHoMotion
+# SymphoMotion
